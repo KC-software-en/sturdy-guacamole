@@ -88,5 +88,5 @@ Run the program (F5) and select an option from the menu
 
 # Add a URL to your GitHub repository
 
-https://github.com/KC-software-en/bookish-adventure
+https://github.com/KC-software-en/sturdy-guacamole
 
